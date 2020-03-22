@@ -2,7 +2,7 @@
 title: Suzanne Daniels
 description: 'Business Card Page'
 url: 'http://suuu.us'
-baseurl: ''
+baseurl: 'http://suuu.us'
 profilepic: '/images/suus.jpg'
 bkimage: '/images/bk1.jpg'
 google_analytics: UA-XXXXXX-X
