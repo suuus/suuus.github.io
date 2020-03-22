@@ -32,7 +32,15 @@ $(document).ready(function () {
     $('.panel-cover').addClass('panel-cover--collapsed')
   }
 
+  if (window.location.hash && window.location.hash == '#blog') {
+    $('.panel-cover').addClass('panel-cover--collapsed')
+  }
+
   if (window.location.pathname !== '{{ site.baseurl }}/' && window.location.pathname !== '{{ site.baseurl }}/index.html') {
+    $('.panel-cover').addClass('panel-cover--collapsed')
+  }
+
+  if (window.location.pathname !== '{{ site.baseurl }}/' && window.location.pathname !== '{{ site.baseurl }}/blog.html') {
     $('.panel-cover').addClass('panel-cover--collapsed')
   }
 
@@ -42,6 +50,11 @@ $(document).ready(function () {
   })
 
   $('.navigation-wrapper .projects-button').click(function () {
+    $('.navigation-wrapper').toggleClass('visible')
+    $('.btn-mobile-menu__icon').toggleClass('icon-list icon-x-circle animated fadeIn')
+  })
+
+  $('.navigation-wrapper .blog-button').click(function () {
     $('.navigation-wrapper').toggleClass('visible')
     $('.btn-mobile-menu__icon').toggleClass('icon-list icon-x-circle animated fadeIn')
   })
