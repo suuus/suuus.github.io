@@ -2,13 +2,16 @@
 layout: default
 title: Blog
 ---
-<h1>Latest Posts</h1>
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
+<h3>Latest Posts</h3>
+{% for post in site.posts %}
+<li class="timeline-inverted">
+    <div class="timeline-panel">
+        <div class="timeline-heading">
+            <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+        </div>
+        <div class="timeline-body">
+            {{ post.excerpt }}
+        </div>
+    </div>
+</li>
+{% endfor %}
