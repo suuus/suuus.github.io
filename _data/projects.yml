@@ -1,12 +1,12 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Silent Disco Mix
+- name: Silent Disco Mix True Colors 2020
   gh_user: suuus
   repo: aap
   uri: https://www.mixcloud.com/suuuus/vuist-vuist-in-die-lucht/
   img: https://user-images.githubusercontent.com/32843441/62822286-71724400-bb81-11e9-9c0b-59fe58dd39a8.png
-  desc: Put your vuist in die lucht! Why? Because it's the first VUIST for 2020.<br />Special mix for Silent Disco Party at True Colors 2020<br /><iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fsuuuus%2Fvuist-vuist-in-die-lucht%2F" frameborder="0" ></iframe>
+  desc: <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fsuuuus%2Fvuist-vuist-in-die-lucht%2F" frameborder="0" ></iframe>
 
 - name: Jekyll Theme
   gh_user: tzuehlke
