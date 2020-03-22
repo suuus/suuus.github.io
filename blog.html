@@ -5,13 +5,15 @@ title: Blog
 
 <ul class="timeline">
 <h3>Latest Posts</h3>
-{% for post in site.posts %}
 <li class="timeline-inverted">
     <div class="timeline-panel">
+{% for post in site.posts %}
+
         <div class="timeline-heading">
             <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
         </div>
+    
+{% endfor %}
     </div>
 </li>
-{% endfor %}
 </ul>
