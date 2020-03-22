@@ -120,13 +120,11 @@
             </ul>
           </nav>
           <div class="timeline-body">
-            Latest Posts
+            <br />
+            <b>Latest Posts</b>
             <ul>
               {% for post in site.posts %}
-                <li>
-                  <a href="{{ post.url }}">{{ post.title }}</a>
-                  {{ post.excerpt }}
-                </li>
+                <a href="{{ post.url }}">{{ post.title }}</a>
               {% endfor %}
             </ul>
           </div>
