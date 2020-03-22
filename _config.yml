@@ -1,21 +1,21 @@
 # Site settings
-title: Thomas Zühlke
+title: Suzanne Daniels
 description: 'Business Card Page'
-url: 'http://thomas.zuehlke.family'
+url: 'http://suuu.us'
 baseurl: ''
-profilepic: '/images/tzuehlke.jpg'
+profilepic: '/images/suus.jpg'
 bkimage: '/images/bk1.jpg'
 google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
 
 author:
-  name: 'Thomas Zühlke'
-  email: info@thomas-zuehlke.de
-  twitter_username: thomzuehlke
+  name: 'Suzanne Daniels'
+  email: suzanne@daniels.cc
+  twitter_username: suushier
 #  facebook_username: joshgerdes
-  github_username:  tzuehlke
-  linkedin_username:  thomas-zühlke-889182165
-  meetup_name: Azure-Meetup-Rostock-MV
+  github_username:  suuus
+  linkedin_username:  suzannedaniels
+  # meetup_name: VACD
 
 # Build settings
 destination: _site
