@@ -15,7 +15,7 @@ robots: noindex
         </div>
         <div class="timeline-panel">
           <div class="timeline-heading">
-            {% if site.data.projects.project.gh_user %}
+            {% if project.gh_user %}
               <h4><a href="{{ project.uri }}" target="_blank">GHHH {{ project.name }}</a></h4>
             {% else %}
               <h4><a href="{{ project.uri }}" target="_blank">{{ project.name }}</a></h4>
