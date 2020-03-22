@@ -119,16 +119,17 @@
               <li class="navigation__item"><a href="{{ site.baseurl }}/#projects" title="Link to projects" class="panel-button projects-button"><i class="fas fa-file-code fa-lg"></i>&nbsp;Projects</a></li>
             </ul>
           </nav>
-          <h1>Latest Posts</h1>
-            <ul class="navigation">
+          <div class="timeline-body">
+            Latest Posts
+            <ul>
               {% for post in site.posts %}
-              <li class="navigation__item">
+                <li>
                   <a href="{{ post.url }}">{{ post.title }}</a>
                   {{ post.excerpt }}
                 </li>
               {% endfor %}
             </ul>
-
+          </div>
         </div>
 
       </div>
