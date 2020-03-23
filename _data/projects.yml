@@ -12,15 +12,16 @@
   img: http://suuu.us/images/vuistindelucht.png
   desc: <iframe width="350" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=%2Fsuuuus%2Ffreaking%2F" frameborder="0" ></iframe>
   subline: 2019 Yearmix
-
+#
 #- name: Azure Automation Scripts
 #  gh_user: tzuehlke
 #  repo: scripts
 #  img: https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png
 #  desc: Some scripts that I used with Azure Automation. For example a VM Start/Stop script or a script for resetting a VPN tunnel.
-
+#
 #- name: Face API
 #  gh_user: ArvatoSystems
 #  repo: FaceApiWPF
 #  img: https://raw.githubusercontent.com/ArvatoSystems/FaceApiWPF/master/FaceApiWPFScreenshot.png
 #  desc: Using the WebCam and send continuously pictures to the Azure FaceAPI. The analyzed results like age and emotion drawn on the WebCam stream. 
+#
