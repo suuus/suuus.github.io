@@ -1,13 +1,14 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+
 - name: Silent Disco Mix True Colors 2020
   uri: https://www.mixcloud.com/suuuus/vuist-vuist-in-die-lucht/
   img: http://suuu.us/images/vuistindelucht.png
   desc: <iframe width="350" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=%2Fsuuuus%2Fvuist-vuist-in-die-lucht%2F" frameborder="0" ></iframe>
   subline: Mix for Silent Disco True Colors party 2020
 
-  - name: Yearmix 2019
+- name: Yearmix 2019
   uri: https://www.mixcloud.com/suuuus/freaking/
   img: http://suuu.us/images/vuistindelucht.png
   desc: <iframe width="350" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=%2Fsuuuus%2Ffreaking%2F" frameborder="0" ></iframe>
