@@ -1,6 +1,7 @@
 # Site settings
-title: Suzanne Daniels
-description: 'Code. Music. Gayness.'
+title: 'suuu.us | Suzanne Daniels'
+tagline: 'Code. Music. Gayness.'
+description: ''
 url: 'http://suuu.us'
 baseurl: ''
 profilepic: '/images/suuscrop.jpg'
@@ -12,6 +13,8 @@ title_image: 'http://suuu.us/images/bk2.jpg'
 author:
   name: 'Suzanne Daniels'
   email: suzanne@daniels.cc
+  twitter: suushier
+  picture: '/images/suuscrop.jpg'
   twitter_username: suushier
 #  facebook_username: joshgerdes
   github_username:  suuus
@@ -22,6 +25,7 @@ author:
 
 plugins:
   - jekyll-readme-index
+  - jekyll-seo-tag
 
 readme_index:
   enabled: true
