@@ -1,7 +1,7 @@
 # Site settings
 title: 'suuu.us | Suzanne Daniels'
 tagline: 'Code. Music. Gayness.'
-description: ''
+description: 'This is the website of Suzanne Daniels'
 url: 'http://suuu.us'
 baseurl: ''
 profilepic: '/images/suuscrop.jpg'
@@ -22,6 +22,17 @@ author:
   # meetup_name: VACD
   sessionize_name: suzannedaniels
   mixcloud_name: suuuus
+
+twitter:
+    username: suushier
+    card: summary
+
+social:
+    name: Suzanne Daniels
+    links:
+      - https://twitter.com/suushier
+      - https://www.linkedin.com/in/suzannedaniels
+      - https://github.com/suuus
 
 plugins:
   - jekyll-readme-index
