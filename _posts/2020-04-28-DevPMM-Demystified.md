@@ -4,9 +4,6 @@ title:  "The DevPMM role demistified"
 author: "Suzanne Daniels"
 ---
 
-The DevPMM role demistified
------- 
-
 What does a Developer Product Marketing Manager actually do? Why is your title on LinkedIn, Twitter, etc.. different? Is your work really distributing stickers and searching for gifs to reply on social media? Wait.. did your official title say.. Marketing??
 
 All valid questions. Luckily my teammate Jussi wrote a blog about what we actually do, how we work and who the team is. What sums it all up for me:
