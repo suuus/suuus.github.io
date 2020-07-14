@@ -2,6 +2,28 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
+#
+
+- name: Virtual Azure Community Day
+  uri: https://azureday.community
+  img: https://azureday.community/hero.c0b106e9.png
+  desc: This is a community event I support here and there
+
+- name: DevOps Wall of Zen Coding Challenge
+  uri: https://aka.ms/devopsdays2020
+  img: https://github-coding-challenge.github.io/assets/devopswallofzentwitter-lowres.png
+  desc: WE devrel team collab DevOps Challenge
+
+- name: Terraform on Azure Challenge
+  uri: https://Terraform-On-Azure-Workshop.github.io
+  img: https://terraform-on-azure-workshop.github.io/assets/twittercard-engine.png
+  desc: WE devrel team collaboration w/ Hashi for this fun Terraform on Azure Challenge
+
+- name: Meetup Gemist
+  uri: https://meetupgemist.nl
+  img: https://meetupgemist.nl/assets/img/logo.png
+  desc: Meetupgemist is the go-to place for meetup recordings, maintained by you!
+
 - name: Vuistdiep in de paashaas
   uri: https://www.mixcloud.com/suuuus/vuist-vuistdiep-in-de-paashaas/
   img: http://suuu.us/images/vuistindelucht.png
