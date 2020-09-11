@@ -11,7 +11,7 @@
   
 - name: Virtual Azure Community Day
   uri: https://azureday.community
-  img: https://azureday.community/hero.c0b106e9.png
+  img: https://vacd2.azureday.community/index.html
   desc: This is a community event I support here and there
 
 - name: DevOps Wall of Zen Coding Challenge
