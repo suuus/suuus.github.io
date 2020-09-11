@@ -4,6 +4,11 @@
 
 #
 
+- name: CONTRIBUTING.md
+  uri: https://contributing.today
+  img: https://www.contributing.today/icon2.8ff681f0.png
+  desc: This is a community meetup during HacktoberFest I support here and there
+  
 - name: Virtual Azure Community Day
   uri: https://azureday.community
   img: https://azureday.community/hero.c0b106e9.png
